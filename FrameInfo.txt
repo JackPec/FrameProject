@@ -1,0 +1,17 @@
+Jack Pec
+
+CSC122-001
+
+Frame Project
+
+Base level: 5
+
+Add 1.5 for choices of frame types
+Add 1 for option configuration thats saved and loaded 
+
+Overall level 7.5
+
+
+Desc: 
+
+It's the "A BOX Upon Ye" Project
